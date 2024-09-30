@@ -1,4 +1,4 @@
-document.querySelectorAll("bouncing-letters>span")
+document.querySelectorAll(".bouncing-letters>span")
 .forEach((element) => {
     element.addEventListener("mouseover", (e) => bounce(e.target))
 });
