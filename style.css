@@ -9,3 +9,14 @@ h1 {
     color: #318D45;
     margin-top: 250px;
 }
+
+.bounce {
+    animation-name: bounce;
+}
+
+.bouncing-letters span {
+    animation-timing-function: linear;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    display: inline-block;
+}
