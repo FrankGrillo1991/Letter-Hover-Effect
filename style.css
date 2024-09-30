@@ -1,3 +1,11 @@
 body {
     background-color: rgba(175, 224, 175, 255);
 }
+
+h1 {
+    font-family: sans-serif;
+    font-size: 110px;
+    text-align: center;
+    color: #318D45;
+    margin-top: 250px;
+}
